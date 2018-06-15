@@ -5,7 +5,7 @@
 
 Changed the stroke on each circle, to become a variable - which I then decrement its value to get different color circle per instantiation.
 
-//+ stroke to have a random green hue as well.
++ stroke to have a random green hue as well.
 
 Things to add.
 -add buttons and Range slider for configuration.
@@ -33,8 +33,8 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ## Recursion
 >[HTML Link](https://hgleocho.github.io/Recursion)
 <br/>
->Interactive Fractal Branches by Diego de la Fuente Curaqueo - 
-[Demo](https://www.openprocessing.org/sketch/457282)
+>Interactive Fractal Branches by Diego de la Fuente Curaqueo 
+| [Demo](https://www.openprocessing.org/sketch/457282)
 | [Source](github.com/diegodelaefe/Fractaloid)
 
 * Alca - 
