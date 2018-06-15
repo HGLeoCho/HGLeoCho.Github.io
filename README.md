@@ -1,5 +1,4 @@
 # Welcome to my GitHub page :]
-projects
 ## Animated-Circle-Packing
 >[HTML Link](https://hgleocho.github.io/Animated-Circle-Packing)
 
