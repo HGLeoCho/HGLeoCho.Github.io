@@ -1,5 +1,4 @@
 # Welcome to HG Leo Cho GitHub Page
-<br/><br/>
 >projects
 ## Animated-Circle-Packing
 [HTML Example](https://hgleocho.github.io/Animated-Circle-Packing)
