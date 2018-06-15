@@ -33,10 +33,6 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ## Recursion
 >[HTML Link](https://hgleocho.github.io/Recursion)
 <br/>
-* Interactive Fractal Branches by Diego de la Fuente Curaqueo - 
-<br/>
-| [Demo](https://www.openprocessing.org/sketch/457282)
-| [Source](github.com/diegodelaefe/Fractaloid)
 
 * Alca - 
 [Demo](https://codepen.io/Alca/full/pWaZaX/) 
