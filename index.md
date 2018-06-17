@@ -1,123 +1,77 @@
 ---
 layout: default
 ---
+# Welcome to my GitHub page :]
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+## Animated-Circle-Packing
+>[HTML Link](https://hgleocho.github.io/Animated-Circle-Packing)
 ```
+Changed the stroke on each circle, to become a variable - which I then decrement its value to get different color circle per instantiation.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
++ stroke to have a random green hue as well.
+
+Things to add.
+-add buttons and Range slider for configuration.
+-Start button.
 ```
+<br/><br/><br/>
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
+## TerrainOverview simulator
+>[HTML Link](https://hgleocho.github.io/TerrainOverview/)
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+although it might look like you are flying over the field, you are in fact standing still.
+its only the y-cord that is moving back and forth creating such an illusion.
+[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
+```
+<br/><br/><br/>
+
+## WaterRipples
+
+>[HTML Link](https://hgleocho.github.io/WaterRipples)
 ```
 
 ```
-The final element.
+<br/><br/><br/>
+
+## Web-Dev-Practice<br/>
+>[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
 ```
+Database website
+```
+<br/><br/><br/>
+
+## Recursion
+>[HTML Link](https://hgleocho.github.io/Recursion)
+```
+<br/>
+
+* Alca - 
+[Demo](https://codepen.io/Alca/full/pWaZaX/) 
+| [Source](https://codepen.io/Alca/pen/pWaZaX/right)
+
+* Justin Riley Recursive Remix - 
+[Demo](https://recursion.glitch.me/) 
+| [Source](https://glitch.com/edit/#!/recursion)
+
+* Recursive Squares - 
+[Demo](https://codepen.io/DonKarlssonSan/full/PJQvKG) 
+| [Source](https://codepen.io/DonKarlssonSan/pen/PJQvKG)
+
+* Recursive Koch Curve - 
+[Demo](https://codepen.io/DonKarlssonSan/full/yzjywa) 
+| [Source](https://codepen.io/DonKarlssonSan/pen/yzjywa)
+```
+<br/><br/><br/>
+
+
+## SnakeGame
+
+[Github Link](https://github.com/HGLeoCho/SnakeGame)
+```
+SnakeGame using various languages
+c++
+```
+
+
+[Page Source](./another-page.html).
+
