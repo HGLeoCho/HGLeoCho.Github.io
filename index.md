@@ -17,6 +17,7 @@ Things to add.
 
 ## TerrainOverview simulator
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
+
 ```
 although it might look like you are flying over the field, you are in fact standing still.
 its only the y-cord that is moving back and forth creating such an illusion.
@@ -27,6 +28,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ## WaterRipples
 
 >[HTML Link](https://hgleocho.github.io/WaterRipples)
+
 ```
 
 ```
@@ -34,6 +36,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 
 ## Web-Dev-Practice<br/>
 >[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
+
 ```
 Database website
 ```
@@ -41,9 +44,8 @@ Database website
 
 ## Recursion
 >[HTML Link](https://hgleocho.github.io/Recursion)
-```
-<br/>
 
+```
 * Alca - 
 [Demo](https://codepen.io/Alca/full/pWaZaX/) 
 | [Source](https://codepen.io/Alca/pen/pWaZaX/right)
@@ -60,12 +62,14 @@ Database website
 [Demo](https://codepen.io/DonKarlssonSan/full/yzjywa) 
 | [Source](https://codepen.io/DonKarlssonSan/pen/yzjywa)
 ```
+
 <br/><br/>
 
 
 ## SnakeGame
 
 [Github Link](https://github.com/HGLeoCho/SnakeGame)
+
 ```
 SnakeGame using various languages
 c++
