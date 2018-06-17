@@ -5,24 +5,21 @@ layout: default
 <br/>
 ## Animated-Circle-Packing
 >[HTML Link](https://hgleocho.github.io/Animated-Circle-Packing)
-
-```
-Changed the stroke on each circle, to become a variable - which I then decrement its value to get different color circle per instantiation.
-+ stroke to have a random green hue as well.
-Things to add.
--add buttons and Range slider for configuration.
--Start button.
-```
+>
+>Changed the stroke on each circle, to become a variable - which I then decrement its value to get different color circle per instantiation.
+>+ stroke to have a random green hue as well.
+>Things to add.
+>-add buttons and Range slider for configuration.
+>-Start button.
 <br/><br/>
 
 ## TerrainOverview simulator
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
 
-```
-although it might look like you are flying over the field, you are in fact standing still.
+
+>although it might look like you are flying over the field, you are in fact standing still.
 its only the y-cord that is moving back and forth creating such an illusion.
-```
-[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
+>[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 <br/><br/>
 
 ## WaterRipples
