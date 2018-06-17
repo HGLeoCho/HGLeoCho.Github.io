@@ -2,8 +2,7 @@
 layout: default
 ---
 # Welcome to my GitHub page :]
-
-
+<br/>
 ## Animated-Circle-Packing
 >[HTML Link](https://hgleocho.github.io/Animated-Circle-Packing)
 
@@ -14,7 +13,7 @@ Things to add.
 -add buttons and Range slider for configuration.
 -Start button.
 ```
-<br/><br/><br/>
+<br/><br/>
 
 ## TerrainOverview simulator
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
@@ -23,7 +22,7 @@ although it might look like you are flying over the field, you are in fact stand
 its only the y-cord that is moving back and forth creating such an illusion.
 [Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 ```
-<br/><br/><br/>
+<br/><br/>
 
 ## WaterRipples
 
@@ -31,14 +30,14 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ```
 
 ```
-<br/><br/><br/>
+<br/><br/>
 
 ## Web-Dev-Practice<br/>
 >[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
 ```
 Database website
 ```
-<br/><br/><br/>
+<br/><br/>
 
 ## Recursion
 >[HTML Link](https://hgleocho.github.io/Recursion)
@@ -61,7 +60,7 @@ Database website
 [Demo](https://codepen.io/DonKarlssonSan/full/yzjywa) 
 | [Source](https://codepen.io/DonKarlssonSan/pen/yzjywa)
 ```
-<br/><br/><br/>
+<br/><br/>
 
 
 ## SnakeGame
