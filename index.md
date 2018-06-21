@@ -17,7 +17,7 @@ layout: default
 >
 >
 ![Animated-Cicle-Packing](./assets/img/circlepacking.gif)
-<br/><br/>
+<br/><br/><br/>
 
 ## TerrainOverview simulator
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
@@ -35,7 +35,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ```
 
 ```
-<br/><br/>
+<br/><br/><br/>
 
 ## Web-Dev-Practice<br/>
 >[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
@@ -43,7 +43,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ```
 Database website
 ```
-<br/><br/>
+<br/><br/><br/>
 
 ## Recursion
 >[HTML Link](https://hgleocho.github.io/Recursion)
@@ -66,7 +66,7 @@ Database website
 | [Source](https://codepen.io/DonKarlssonSan/pen/yzjywa)
 ```
 
-<br/><br/>
+<br/><br/><br/>
 
 
 ## SnakeGame
@@ -78,6 +78,6 @@ SnakeGame using various languages
 c++
 ```
 
-
+<br/><br/><br/>
 [Page Source](./another-page.html).
 
