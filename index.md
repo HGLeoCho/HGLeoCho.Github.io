@@ -4,7 +4,7 @@ layout: default
 # Welcome to my GitHub page :]
 <br/>
 
-## Animated-Circle-Packing
+## Animated-Circle-Packing<br/>
 
 >[HTML Link](https://hgleocho.github.io/Animated-Circle-Packing)
 
@@ -20,7 +20,7 @@ layout: default
 <br/><br/><br/>
 
 
-## TerrainOverview simulator
+## TerrainOverview simulator<br/>
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
 
 
@@ -43,16 +43,16 @@ its only the y-cord that is moving back and forth creating such an illusion.
 > Database website mainly using React with heroku as back server<br/>
 <br/><br/><br/>
 
-## WaterRipples
+## WaterRipples<br/>
 
->[HTML Link](https://hgleocho.github.io/WaterRipples)
+>[HTML Link](https://hgleocho.github.io/WaterRipples)<br/>
 ```
 WaterRipples using p5.js
 ```
 <br/><br/><br/>
 
-## Recursion
->[HTML Link](https://hgleocho.github.io/Recursion)
+## Recursion<br/>
+>[HTML Link](https://hgleocho.github.io/Recursion)<br/>
 
 ```
 * Alca - 
