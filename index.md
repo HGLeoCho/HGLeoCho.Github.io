@@ -26,7 +26,7 @@ layout: default
 
 >although it might look like you are flying over the field, you are in fact standing still.
 its only the y-cord that is moving back and forth creating such an illusion.
->[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
+>[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)<br/>
 ![TerrainOverview](./assets/img/TerrainOverview.gif)
 <br/><br/>
 
