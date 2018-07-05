@@ -31,13 +31,13 @@ its only the y-cord that is moving back and forth creating such an illusion.
 
 ## Web-Dev-Practice<br/>
 >[Web-Dev-Practice v1](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
->- jQuery, MongoDB, Bootstrap, Knockout<br/>
+>- jQuery, MongoDB, Bootstrap, Knockout
 ```
 Database website using heroku as back server
 ```
 >[Web-Dev-Practice v2](https://hgleocho.github.io/Web-Dev-Practice-v2/)<br/>
->- React<br/>
->- Bootstrap, moment, axios<br/>
+>- React
+>- Bootstrap, moment, axios
 ```
 Database website mainly using React with heroku as back server
 ```
