@@ -19,6 +19,7 @@ layout: default
 ![Animated-Cicle-Packing](./assets/img/circlepacking.gif)
 <br/><br/><br/>
 
+
 ## TerrainOverview simulator
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
 
@@ -29,15 +30,17 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ![TerrainOverview](./assets/img/TerrainOverview.gif)
 <br/><br/>
 
+
 ## Web-Dev-Practice<br/>
+
 >[Web-Dev-Practice v1](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
->- jQuery, MongoDB, Bootstrap, Knockout
-> Database website using heroku as back server
+>- jQuery, MongoDB, Bootstrap, Knockout<br/>
+> Database website using heroku as back server<br/>
 
 >[Web-Dev-Practice v2](https://hgleocho.github.io/Web-Dev-Practice-v2/)<br/>
->- React
->- Bootstrap, moment, axios
-> Database website mainly using React with heroku as back server
+>- React<br/>
+>- Bootstrap, moment, axios<br/>
+> Database website mainly using React with heroku as back server<br/>
 <br/><br/><br/>
 
 ## WaterRipples
