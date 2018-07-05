@@ -28,20 +28,25 @@ its only the y-cord that is moving back and forth creating such an illusion.
 >[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
 <br/><br/>
 
-## WaterRipples
-
->[HTML Link](https://hgleocho.github.io/WaterRipples)
-
+## Web-Dev-Practice<br/>
+>[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
+>- jQuery, MongoDB, Bootstrap, Knockout
 ```
-
+Database website using heroku as back server
+```
+>[Web-Dev-Practice v2](https://hgleocho.github.io/Web-Dev-Practice-v2/)
+>- React
+>- Bootstrap, moment, axios
+```
+Database website mainly using React with heroku as back server
 ```
 <br/><br/><br/>
 
-## Web-Dev-Practice<br/>
->[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
+## WaterRipples
 
+>[HTML Link](https://hgleocho.github.io/WaterRipples)
 ```
-Database website
+
 ```
 <br/><br/><br/>
 
