@@ -29,7 +29,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 <br/><br/>
 
 ## Web-Dev-Practice<br/>
->[HTML PAGE](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
+>[Web-Dev-Practice v1](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
 >- jQuery, MongoDB, Bootstrap, Knockout
 ```
 Database website using heroku as back server
