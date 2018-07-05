@@ -47,7 +47,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 
 >[HTML Link](https://hgleocho.github.io/WaterRipples)
 ```
-
+WaterRipples using p5.js
 ```
 <br/><br/><br/>
 
