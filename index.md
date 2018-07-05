@@ -26,17 +26,18 @@ layout: default
 >although it might look like you are flying over the field, you are in fact standing still.
 its only the y-cord that is moving back and forth creating such an illusion.
 >[Source wiki](http://flafla2.github.io/2014/08/09/perlinnoise.html)
+![TerrainOverview](./assets/img/TerrainOverview.gif)
 <br/><br/>
 
 ## Web-Dev-Practice<br/>
 >[Web-Dev-Practice v1](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
->- jQuery, MongoDB, Bootstrap, Knockout
+>- jQuery, MongoDB, Bootstrap, Knockout<br/>
 ```
 Database website using heroku as back server
 ```
->[Web-Dev-Practice v2](https://hgleocho.github.io/Web-Dev-Practice-v2/)
->- React
->- Bootstrap, moment, axios
+>[Web-Dev-Practice v2](https://hgleocho.github.io/Web-Dev-Practice-v2/)<br/>
+>- React<br/>
+>- Bootstrap, moment, axios<br/>
 ```
 Database website mainly using React with heroku as back server
 ```
