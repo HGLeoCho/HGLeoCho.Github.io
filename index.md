@@ -32,6 +32,12 @@ its only the y-cord that is moving back and forth creating such an illusion.
 ![TerrainOverview](./assets/img/TerrainOverview.gif)
 <br/><br/><br/>
 
+## PickLottoNumbers
+![TerrainOverview](./assets/img/TerrainOverview.gif)
+>- Basic HTML, Javascript, CSS mash up<br/>
+> A simple site to pick unique numbers for Lotto 649 and Lotto Max<br/>
+>[Link](https://hgleocho.github.io/PickLottoNumbers/)<br/>
+<br/><br/><br/>
 
 ## Web-Dev-Practice<br/>
 
