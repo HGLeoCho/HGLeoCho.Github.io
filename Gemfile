@@ -1,4 +1,3 @@
 source 'https://rubygems.org'
 
-gemspec
-gem "jekyll-theme-dark-minimal"
+gem "github-pages", group: :jekyll_plugins
