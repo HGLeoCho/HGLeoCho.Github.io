@@ -37,7 +37,7 @@ its only the y-cord that is moving back and forth creating such an illusion.
 >A simple site to pick unique numbers for Lotto 649 and Lotto Max<br/>
 >[Link](https://hgleocho.github.io/PickLottoNumbers/)<br/>
 >
-![PickLottoNumbers](./assets/img/K-20220130-013829.mp4)
+![PickLottoNumbers](https://raw.githubusercontent.com/HGLeoCho/HGLeoCho.Github.io/master/assets/img/K-20220130-013829.mp4)
 <br/><br/><br/>
 
 ## Web-Dev-Practice<br/>
