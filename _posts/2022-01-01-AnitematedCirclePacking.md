@@ -9,9 +9,14 @@ title: "Animated Circle Packing"
 >
 >
 Things to add.
-- [x] Frame counter
-- [ ] Add buttons and Range slider for configuration.
-- [ ] Start button.
+[x] Frame counter
+[ ] Add buttons and Range slider for configuration.
+[ ] Start button.
+
+Things to add.
+>[x] Frame counter
+>[ ] Add buttons and Range slider for configuration.
+>[ ] Start button.
 >
 >
 ![Animated-Cicle-Packing](./assets/img/circlepacking.gif)
