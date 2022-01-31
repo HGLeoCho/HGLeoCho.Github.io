@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "This post demonstrates post content styles"
+title: "Terrain Overview Simulator"
 ---
-## TerrainOverview simulator<br/>
+## Terrain Overview simulator<br/>
 >[HTML Link](https://hgleocho.github.io/TerrainOverview/)
 
 

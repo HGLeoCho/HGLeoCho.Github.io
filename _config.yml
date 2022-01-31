@@ -3,6 +3,7 @@ description: Github io with Hamilton theme
 author: HG Leo CHo
 avatar: /assets/img/logo.png
 email: chg8778@gmail.com
+location: Toronto
 
 plugins:
   - jekyll-seo-tag
