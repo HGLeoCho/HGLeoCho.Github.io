@@ -2,7 +2,7 @@
 layout: post
 title: "WaterRipples"
 ---
->[HTML Link](https://hgleocho.github.io/WaterRipples)<br/>
-```
-WaterRipples using p5.js
-```
+>Water Rippl Simulation using p5.js
+>[HTML Link](https://hgleocho.github.io/WaterRipples)
+>
+![Animated-Cicle-Packing](./assets/img/WaterRipples.gif)
