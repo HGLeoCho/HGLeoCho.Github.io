@@ -3,8 +3,6 @@ layout: post
 title: "Recursion"
 ---
 >[HTML Link](https://hgleocho.github.io/Recursion)<br/>
-
-```
 * Alca - 
 [Demo](https://codepen.io/Alca/full/pWaZaX/) 
 | [Source](https://codepen.io/Alca/pen/pWaZaX/right)
@@ -20,4 +18,3 @@ title: "Recursion"
 * Recursive Koch Curve - 
 [Demo](https://codepen.io/DonKarlssonSan/full/yzjywa) 
 | [Source](https://codepen.io/DonKarlssonSan/pen/yzjywa)
-```
