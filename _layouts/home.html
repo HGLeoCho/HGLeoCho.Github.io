@@ -14,7 +14,7 @@ layout: default
 
   {%- if posts.size > 0 -%}
     <ul class="post-list">
-      {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+      <!-- {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%} -->
       {%- for post in posts -%}
       <li>
         <h2>
@@ -22,7 +22,7 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h2>
-        <p class="post-meta">
+        <!-- <p class="post-meta">
           <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
             {{ post.date | date: date_format }}
           </time>
@@ -31,9 +31,9 @@ layout: default
                 <span class="disqus-comment-count" data-disqus-url="{{ post.url | absolute_url }}"></span>
               </a>
           {%- endif -%}
-        </p>
+        </p> -->
         {%- if post.show_excerpts != false -%}
-          <div class="post-excerpt">{{ post.excerpt | strip_html }}</div>
+          <div class="post-excerpt">{{ post.content | strip_html }}</div>
         {%- endif -%}
       </li>
       {%- endfor -%}
