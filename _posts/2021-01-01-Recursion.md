@@ -2,8 +2,6 @@
 layout: post
 title: "Recursion"
 ---
-
-## Recursion<br/>
 >[HTML Link](https://hgleocho.github.io/Recursion)<br/>
 
 ```
