@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pick Lotto Numbers"
+tags: [https://github.com/HGLeoCho/PickLottoNumbers]
 ---
 >[HTML Link](https://hgleocho.github.io/PickLottoNumbers/)
 >

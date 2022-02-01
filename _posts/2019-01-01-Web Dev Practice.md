@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Project: Web Dev Practice"
+tags: [https://github.com/HGLeoCho/Web-Dev-Practice]
 ---
 
 >[Web-Dev-Practice v1](https://hgleocho.github.io/Web-Dev-Practice/)<br/>
